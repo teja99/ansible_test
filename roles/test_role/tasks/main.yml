@@ -1,0 +1,2 @@
+- debug:
+    msg: "test_var is  {{ test_var }} and ansible_sudo_pass is {{ ansible_sudo_pass }}"
